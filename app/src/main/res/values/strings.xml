@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DIEDAO</string>
+    <string name="x_info">x轴上的加速度为：</string>
+    <string name="y_info">y轴上的加速度为：</string>
+    <string name="z_info">z轴上的加速度为：</string>
+    <string name="x1_info">x轴上的陀螺仪值为：</string>
+    <string name="y1_info">y轴上的陀螺仪值为：</string>
+    <string name="z1_info">z轴上的陀螺仪值为：</string>
+</resources>
